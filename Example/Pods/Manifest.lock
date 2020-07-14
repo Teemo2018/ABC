@@ -1,0 +1,16 @@
+PODS:
+  - ABC (0.1.0)
+
+DEPENDENCIES:
+  - ABC (from `../`)
+
+EXTERNAL SOURCES:
+  ABC:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ABC: adf88ad990d19b97e8ab531f696f6f58156b386b
+
+PODFILE CHECKSUM: a9467bd54c4c95d6be8b8d0e1d8d610a7bd15ae6
+
+COCOAPODS: 1.9.1
